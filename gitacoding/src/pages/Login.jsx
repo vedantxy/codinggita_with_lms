@@ -21,7 +21,7 @@ export default function Login() {
         alert("Login failed. Please try again");
         return;
       }
-      navigate("/student");
+      navigate("/student-dashboard");
     }
   };
 

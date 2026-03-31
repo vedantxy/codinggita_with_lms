@@ -1,13 +1,13 @@
 export const students = [
   {
-    uid: "1001",
-    password: "123",
-    name: "Rajesh Sharma",
-    email: "rajeshranjan22@gmail.com",
-    mobile: "9999999991",
+    uid: "108708",
+    password: "12345",
+    name: "Vedant patel",
+    email: "vedantpatelxy12@gmail.com",
+    mobile: "9875051366",
     university: "SUxCG 714",
 
-    image: "https://avatars.githubusercontent.com/u/107463246?v=4",
+    image: "https://res.cloudinary.com/dv7bazp5k/image/upload/v1770271141/portfoliophoto_chnbyp.jpg",
 
     attendance: {
       semester: "Semester 2",
