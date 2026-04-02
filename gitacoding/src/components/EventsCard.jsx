@@ -6,13 +6,14 @@ export default function EventsCard({ events }) {
       {/* HEADER */}
       <div className="p-4 border-b border-neutral-800">
         <div className="flex items-center justify-between">
+          
           <div className="text-white font-semibold">Upcoming Events</div>
 
           <div className="flex items-center gap-3 text-sm text-neutral-400">
             <span>{events.length} shown</span>
 
             <span className="text-xs underline hover:text-white cursor-pointer">
-              View all
+              <a href="/Event">View all</a>
             </span>
           </div>
         </div>
